@@ -1,0 +1,2 @@
+*No fire Detected*
+**Fire Detected!!**
