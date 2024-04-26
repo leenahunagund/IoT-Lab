@@ -1,1 +1,1 @@
-## Internet of Things Practical - 20CS630P.
+## Internet of Things Practical Laboratory - 20CS630P.
